@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTask", "SpaceTask.csproj", "{92C5FF7F-B661-47B0-A091-AFB9C015C3AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORE2", "..\CORE2\CORE2.csproj", "{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C5FF7F-B661-47B0-A091-AFB9C015C3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C5FF7F-B661-47B0-A091-AFB9C015C3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C5FF7F-B661-47B0-A091-AFB9C015C3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C5FF7F-B661-47B0-A091-AFB9C015C3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9556A95E-1106-4A03-AE8A-D69FA8CE7113}
+	EndGlobalSection
+EndGlobal

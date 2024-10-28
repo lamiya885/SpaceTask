@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ll novbe\\source\\repos\\ConsoleApp17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}|..\\CORE2\\CORE2.csproj|c:\\users\\ll novbe\\source\\repos\\core2\\core2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C5FF7F-B661-47B0-A091-AFB9C015C3AE}|ConsoleApp17.csproj|c:\\users\\ll novbe\\source\\repos\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C5FF7F-B661-47B0-A091-AFB9C015C3AE}|ConsoleApp17.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}|..\\CORE2\\CORE2.csproj|c:\\users\\ll novbe\\source\\repos\\core2\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}|..\\CORE2\\CORE2.csproj|c:\\users\\ll novbe\\source\\repos\\core2\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}|..\\CORE2\\CORE2.csproj|c:\\users\\ll novbe\\source\\repos\\core2\\helper\\enum\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A8ACB-329D-4F7F-89CE-9FEE95E532A3}|..\\CORE2\\CORE2.csproj|c:\\users\\ll novbe\\source\\repos\\core2\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CORE2",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\CORE2.csproj",
+              "RelativeDocumentMoniker": "..\\CORE2\\CORE2.csproj",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\CORE2.csproj",
+              "RelativeToolTip": "..\\CORE2\\CORE2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T13:51:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "..\\CORE2\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Models\\Country.cs",
+              "RelativeToolTip": "..\\CORE2\\Models\\Country.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:02:48.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Models\\Planet.cs",
+              "RelativeDocumentMoniker": "..\\CORE2\\Models\\Planet.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Models\\Planet.cs",
+              "RelativeToolTip": "..\\CORE2\\Models\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:02:29.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Data\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CORE2\\Data\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Data\\AddDbContext.cs",
+              "RelativeToolTip": "..\\CORE2\\Data\\AddDbContext.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAjwDgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:01:34.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Helper\\Enum\\Region.cs",
+              "RelativeDocumentMoniker": "..\\CORE2\\Helper\\Enum\\Region.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\CORE2\\Helper\\Enum\\Region.cs",
+              "RelativeToolTip": "..\\CORE2\\Helper\\Enum\\Region.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:59:32.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\ConsoleApp17\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\ConsoleApp17\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwE8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:40:31.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
