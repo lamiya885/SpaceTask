@@ -24,6 +24,7 @@ namespace ConsoleApp17
                     case "1":
                         do
                         {
+                            Console.BackgroundColor = ConsoleColor.White;
                             Console.WriteLine("1.Olke yarat, 2. Olke gor,3.evvelki menuya qayit,4.GetCountryByRegion,0.EXIT");
                             string operation1 = Console.ReadLine();
 
@@ -39,6 +40,8 @@ namespace ConsoleApp17
                                     bool t = int.TryParse(Console.ReadLine(), out Carea);
                                     while (!t)
                                     {
+                                        Console.Beep();
+                                        Console.BackgroundColor = ConsoleColor.Red;
                                         Console.WriteLine("erazini duzgun daxil edin.");
                                         t = int.TryParse(Console.ReadLine(), out Carea);
                                     }
@@ -50,6 +53,8 @@ namespace ConsoleApp17
                                     {
                                         if (k = false)
                                         {
+                                            Console.Beep();
+                                            Console.BackgroundColor = ConsoleColor.Red;
                                             Console.WriteLine(" Duzgun eded daxil edin");
                                         }
                                     } while (k = true);
@@ -79,10 +84,14 @@ namespace ConsoleApp17
                                     AddDbContext.GetCountryByRegion(region1);
                                     Console.Clear();
                                     break;
+
                                 case "0":
+                                    f1 = true;
                                     f = true;
                                     break;
                                 default:
+                                    Console.Beep();
+                                    Console.BackgroundColor = ConsoleColor.Red;
                                     Console.WriteLine("Duzgun eded daxil edin");
                                     break;
                             }
@@ -92,6 +101,7 @@ namespace ConsoleApp17
                     case "2":
                         do
                         {
+                            Console.BackgroundColor= ConsoleColor.White;
                             Console.WriteLine("1.Planet yarat,2.Butun planetleri gor,3.Planet sec ,0.Exit");
                             string operation2 = Console.ReadLine();
 
@@ -107,6 +117,8 @@ namespace ConsoleApp17
                                     bool l = int.TryParse(Console.ReadLine(), out area);
                                     if (l = false)
                                     {
+                                        Console.Beep() ;
+                                        Console.BackgroundColor = ConsoleColor.Red;
                                         Console.WriteLine("duzgun eded daxil et");
                                         goto begin;
                                     }
@@ -130,9 +142,12 @@ namespace ConsoleApp17
                                     Console.Clear();
                                     break;
                                 case "0":
+                                    f2=true;
                                     f = true;
                                     break;
                                 default:
+                                    Console.Beep();
+                                    Console.BackgroundColor = ConsoleColor.Red;
                                     Console.WriteLine("duzgun eded daxil edin");
                                     break;
 
@@ -141,12 +156,15 @@ namespace ConsoleApp17
 
                         } while (!f2);
                         Console.Clear();
+                        
                         break;
 
                     case "0":
                         f = true;
                         break;
                     default:
+                        Console.Beep();
+                        Console.BackgroundColor = ConsoleColor.Red;
                         Console.WriteLine("duzgun eded daxil edin");
                         break;
                 }
